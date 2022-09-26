@@ -9,6 +9,7 @@ body{
     outline: dotted 1px white;
 }
 html{
+    background-color:black;
 border: 2px solid white;
 outline: solid 2px white;
 }
