@@ -1,17 +1,16 @@
 body{
     align-content: right;
     bottom: 50%;
-    background-color: aliceblue;
-  
+    background-color: black;  
     text-align: center;
     text-justify: inter-word;
     margin-left: 25%;
     margin-right: 25%;
-    outline: dotted 1px black;
+    outline: dotted 1px white;
 }
 html{
 border: 2px solid white;
-    outline: solid 2px black;
+outline: solid 2px white;
 }
 br{
     text-align: left;
